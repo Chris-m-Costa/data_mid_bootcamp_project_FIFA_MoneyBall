@@ -1,0 +1,30 @@
+FIFA Project Planning
+
+
+Decide on a problem/question to solve
+Potential questions:
+	The team needs a striker. Whats the best OVA and Total Stats fro the least $$
+	
+
+
+Stage 2:
+Data Cleaning:
+	standardization
+	dropping unneeded or unuseable cols
+	Removing/fixing nulls
+	Corr3ecting Data/Column types/Removing symbols etc.
+
+	
+Stage 3:
+Visualiztation: line and scatter plots to visulaize date
+
+Filtering subject columns for team budgetary reasons
+
+
+
+Final Thoughts:
+
+My finidings show that there are good value for money players with a budget of ~1.5 times the total signing cost IQR.
+It is also clear to see that Christiano Ronaldo is signifacntly underpaid compared to his peers at the top of the OVA column.
+
+Unfortunately our regression model was un helpful in projecting signing costs of a potential unknwon player with an OVA rating. 
